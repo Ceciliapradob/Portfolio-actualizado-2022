@@ -1,0 +1,22 @@
+.tecnologias{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    font-size: 25px;
+}
+
+.contenedor-tecnologias figure img{
+    width: 60px;
+    
+}
+.contenedor-tecnologias{
+    display: flex;
+   justify-content:space-between;
+   margin: 0px 75px 75px ;
+   
+   
+ }
+.contenedor-tecnologias figure h1{
+    font-size: 15px;
+}
